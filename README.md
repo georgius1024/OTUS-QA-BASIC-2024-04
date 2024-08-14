@@ -9,3 +9,6 @@ The purpose of product is....
 - feature 3
 - feature 4
 
+## Options list
+- option 1
+- option 2
